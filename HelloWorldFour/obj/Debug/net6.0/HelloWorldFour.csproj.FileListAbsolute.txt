@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\bin\Debug\net6.0\HelloWorldFour.exe
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\bin\Debug\net6.0\HelloWorldFour.deps.json
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\bin\Debug\net6.0\HelloWorldFour.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\bin\Debug\net6.0\HelloWorldFour.dll
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\bin\Debug\net6.0\HelloWorldFour.pdb
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.dll
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\refint\HelloWorldFour.dll
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.pdb
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\HelloWorldFour.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldFour\obj\Debug\net6.0\ref\HelloWorldFour.dll
