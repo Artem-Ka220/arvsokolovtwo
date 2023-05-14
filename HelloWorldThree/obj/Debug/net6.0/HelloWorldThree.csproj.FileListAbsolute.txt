@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\bin\Debug\net6.0\HelloWorldThree.exe
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\bin\Debug\net6.0\HelloWorldThree.deps.json
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\bin\Debug\net6.0\HelloWorldThree.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\bin\Debug\net6.0\HelloWorldThree.dll
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\bin\Debug\net6.0\HelloWorldThree.pdb
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.dll
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\refint\HelloWorldThree.dll
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.pdb
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\HelloWorldThree.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\ProjectForGeekbrains\Repo\New Console\HelloWorldThree\obj\Debug\net6.0\ref\HelloWorldThree.dll
